@@ -1,2 +1,2 @@
-# http://elaineresende.githut.io
+# http://elaineresende.github.io
 Projetct Data Visualization 
