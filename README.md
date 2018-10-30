@@ -1,2 +1,2 @@
-# elaineresende.githut.io
+# http://elaineresende.githut.io
 Projetct Data Visualization 
